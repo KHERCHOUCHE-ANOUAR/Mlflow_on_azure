@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/Desktop/Mlflow_on_azure/mlruns/0/1f4c21f14dfe4c2cb5ea6156ed344add/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1f4c21f14dfe4c2cb5ea6156ed344add
+run_name: beautiful-shark-729
+run_uuid: 1f4c21f14dfe4c2cb5ea6156ed344add
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745317522357
+status: 1
+tags: []
+user_id: anouar

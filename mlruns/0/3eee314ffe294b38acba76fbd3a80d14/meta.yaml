@@ -1,0 +1,15 @@
+artifact_uri: file:///home/anouar/Desktop/Mlflow_on_azure/mlruns/0/3eee314ffe294b38acba76fbd3a80d14/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3eee314ffe294b38acba76fbd3a80d14
+run_name: thoughtful-seal-886
+run_uuid: 3eee314ffe294b38acba76fbd3a80d14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745317221935
+status: 1
+tags: []
+user_id: anouar
