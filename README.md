@@ -42,7 +42,7 @@ This script will:
 
 ## 2. Setup MLflow on the VM
 
-### ➤ SSH into the VM
+#### ➤ SSH into the VM
 
 After the resources are created, SSH into the VM:
 
@@ -76,7 +76,7 @@ mlflow server \
 http://<VM_PUBLIC_IP>:5000
 ```
 ## 3. Run the Training Script from Local
-### ➤ Run the script
+#### ➤ Run the script
 On your local machine, run the training script with the desired hyperparameters:
 
 ```bash
